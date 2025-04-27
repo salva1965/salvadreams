@@ -1,0 +1,14 @@
+h1 {
+    color: brown !important;
+    text-decoration: underline;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+header {
+    background-color: aqua;
+}
+footer {
+    background-color: cadetblue;
+}
+ul {
+    list-style: none;
+}
