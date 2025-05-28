@@ -152,6 +152,8 @@ p {
 }
 .mensaje {
     margin-left: 2%;
+
+    padding-left: 2%;
     place-items: center;
     text-align: center;
     width: 30%;
