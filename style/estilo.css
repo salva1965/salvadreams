@@ -50,7 +50,7 @@ h1 {
     font-size: 2em;
 }
 h2 {
-    font-size: 150%;
+    font-size: 1.5em;
 }
 
 h5 {
@@ -144,12 +144,25 @@ p {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    gap: 10px;
+}
+.contacto {
+    margin-left: 1%;
+    width: 10%;
 }
 .mensaje {
+    margin-left: 2%;
+    place-items: center;
     text-align: center;
+    width: 30%;
+
 }
 .mapa{
-    margin-left: 1%;
+    place-items: center;
+    box-sizing: border-box;
+    text-align: center;    
+    margin: 1%;
+    width: 60%;
 }
 .nombre {
     margin-top: 15%;
@@ -235,7 +248,7 @@ footer {
     padding-top: 5%;
 }
 @media only screen and (max-width: 650px) { 
-    .contenedor2 { font-size: 14px; 
+    .contenedor_contactos { font-size: 14px; 
         background-color: #90f2ff;
         grid-template-columns: 1fr;
     } 
