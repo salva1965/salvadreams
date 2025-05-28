@@ -146,17 +146,13 @@ p {
     align-items: center;
     gap: 10px;
 }
-.contacto {
-    margin-left: 1%;
-    width: 10%;
-}
 .mensaje {
-    margin-left: 2%;
+    margin-left: 5%;
 
     padding-left: 2%;
     place-items: center;
     text-align: center;
-    width: 30%;
+    width: 20%;
 
 }
 .mapa{
