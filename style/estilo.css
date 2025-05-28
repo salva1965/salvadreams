@@ -142,14 +142,13 @@ p {
 }
 .contenedor_contactos {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     gap: 10px;
 }
 .mensaje {
-    margin-left: 5%;
+    margin-left: 10%;
 
-    padding-left: 2%;
     place-items: center;
     text-align: center;
     width: 20%;
